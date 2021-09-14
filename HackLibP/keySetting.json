@@ -1,0 +1,137 @@
+{
+    "toggleHack": {
+        "code": 192,
+        "name_chs": "切换菜单",
+        "name_en": "Toggle Menu"
+    },
+    "closeHack1": {
+        "code": 88,
+        "name_chs": "关闭菜单1",
+        "name_en": "Close Menu 1"
+    },
+    "closeHack2": {
+        "code": 27,
+        "name_chs": "关闭菜单2",
+        "name_en": "Close Menu 2"
+    },
+    "reloadHack": {
+        "code": 112,
+        "name_chs": "重新加载工具",
+        "name_en": "Reload Tool"
+    },
+    "reloadGame": {
+        "code": 116,
+        "name_chs": "重新加载游戏",
+        "name_en": "Reload Game"
+    },
+    "hackConsole": {
+        "code": 122,
+        "name_chs": "修改器控制台",
+        "name_en": "Hack Console"
+    },
+    "Noclip*3": {
+        "code": 16,
+        "name_chs": "按 3 次切换穿墙",
+        "name_en": "Press 3 time toggle Noclip"
+    },
+    "MultiplyActiveKey": {
+        "code": 17,
+        "name_chs": "加速",
+        "name_en": "Enable speed hack"
+    },
+    "MultiplyActiveLongKey": {
+        "code": 90,
+        "name_chs": "长按加速1",
+        "name_en": "Long press Enable speed hack - 1"
+    },
+    "MultiplyActiveLongKey_1": {
+        "code": 88,
+        "name_chs": "长按加速2",
+        "name_en": "Long press Enable speed hack - 2"
+    },
+    "MultiplyActiveLongKey_2": {
+        "code": 16,
+        "name_chs": "长按加速3",
+        "name_en": "Long press Enable speed hack - 3"
+    },
+    "list_SelectAll": {
+        "code": 65,
+        "name_chs": "列表全选",
+        "name_en": "List Select All"
+    },
+    "list_ToggleCheckbox": {
+        "code": 32,
+        "name_chs": "列表切换复选框",
+        "name_en": "List Toggle Checkbox"
+    },
+    "list_ToggleSwitch": {
+        "code": 13,
+        "name_chs": "列表切换开关",
+        "name_en": "List Toggle Switch"
+    },
+    "list_Add": {
+        "code": 39,
+        "name_chs": "列表物品数量增加",
+        "name_en": "List Item Num inc"
+    },
+    "list_Dec": {
+        "code": 37,
+        "name_chs": "列表物品数量减少",
+        "name_en": "List Item Num dec"
+    },
+    "list_GainAmount1": {
+        "code": 16,
+        "name_chs": "列表物品数量增加*10 1",
+        "name_en": "List Item Change *10 1"
+    },
+    "list_GainAmount2": {
+        "code": 17,
+        "name_chs": "列表物品数量增加*10 2",
+        "name_en": "List Item Change *10 2"
+    },
+    "list_GainAmount3": {
+        "code": 18,
+        "name_chs": "列表物品数量增加*10 3",
+        "name_en": "List Item Change *10 3"
+    },
+    "list_Search": {
+        "code": 70,
+        "name_chs": "列表搜索",
+        "name_en": "List Search"
+    },
+    "list_SearchAndSelect": {
+        "code": 17,
+        "name_chs": "列表搜索并选中(后按下搜索键)",
+        "name_en": "List Search and Select (Then press Search key)"
+    },
+    "list_SearchNext": {
+        "code": 78,
+        "name_chs": "列表搜索下一个",
+        "name_en": "List Search Next"
+    },
+    "list_CopySelected": {
+        "code": 67,
+        "name_chs": "列表复制选中项",
+        "name_en": "List Copy Selected"
+    },
+    "list_Up": {
+        "code": 38,
+        "name_chs": "列表向上",
+        "name_en": "List Go Up"
+    },
+    "list_Down": {
+        "code": 40,
+        "name_chs": "列表向下",
+        "name_en": "List Go Down"
+    },
+    "list_SelectMult": {
+        "code": 17,
+        "name_chs": "列表多选",
+        "name_en": "List Select Multiple"
+    },
+    "list_SelectRang": {
+        "code": 16,
+        "name_chs": "列表范围选择",
+        "name_en": "List Select Rang"
+    }
+}
